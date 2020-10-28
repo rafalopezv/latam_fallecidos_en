@@ -28,13 +28,13 @@ Sys.setlocale(locale = "es_ES.UTF-8")
 millon_fallecidos
 ```
 <small><small><small>
-Own elaboration based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19), [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL) and [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19), the [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL), and the [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
 </small></small></small>
 <br>
 <br>
 
 <h2 style = color: #000000;>
-    New de <span style = "color: #e61b72"><b>deaths</b></span> per day since Patient Zero in each country 
+    New <span style = "color: #e61b72"><b>deaths</b></span> per day since Patient Zero in each country 
 </h2>
 
 <center><h4>Interactive infographic: hover over the infographic and select the countries that you want to compare from the section appearing below. The width of each color reflects that country's proportion of the total.</h4></center>
@@ -43,7 +43,8 @@ Own elaboration based on data from [Jhons Hopkins University](https://github.com
 incidencia_fallecidos
 ```
 <small><small><small>
-Own elaboration based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19), [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL) and [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
+<small><small><small>
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19), the [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL), and the [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
 </small></small></small>
 <br>
 <br>
@@ -57,5 +58,5 @@ Own elaboration based on data from [Jhons Hopkins University](https://github.com
 rio_fallecidos
 ```
 <small><small><small>
-Own elaboration based on data from [Jhons Hopkins University](https://github.com/CSSEGISandData/COVID-19), [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL) and [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
+Our own graphic, based on data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19), the [World Bank](https://datos.bancomundial.org/indicador/SP.POP.TOTL), and the [CIA](https://www.cia.gov/library/publications/the-world-factbook/fields/335rank.html)
 </small></small></small>
